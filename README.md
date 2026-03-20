@@ -2,6 +2,10 @@
 
 AI-driven motion design playground for macOS, built with SwiftUI.
 
+[![CI](https://github.com/boona13/AIAfterEffects/actions/workflows/ci.yml/badge.svg)](https://github.com/boona13/AIAfterEffects/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status: Alpha](https://img.shields.io/badge/status-alpha-orange)](https://github.com/boona13/AIAfterEffects/releases)
+
 > [!WARNING]
 > This project is pre-release and currently unstable. Expect bugs, incomplete workflows, visual glitches, failed generations, rough UX, and breaking changes.
 
@@ -22,6 +26,20 @@ If you open issues or submit PRs, please assume the current focus is on:
 - Builds timelines, objects, effects, and procedural animation systems
 - Supports 2D elements, shaders, particles, and 3D model animation
 - Exports rendered output from the macOS app
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot%201447-10-01%20at%2010.14.13%E2%80%AFPM.png" alt="Editor with 3D object and inspector" width="900" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot%201447-10-01%20at%2010.13.42%E2%80%AFPM.png" alt="Timeline editing and generated composition view" width="900" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot%201447-10-01%20at%2010.15.12%E2%80%AFPM.png" alt="3D asset browser and model library" width="900" />
+</p>
 
 ## First Public Alpha
 
