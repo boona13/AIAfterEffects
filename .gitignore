@@ -1,0 +1,42 @@
+.DS_Store
+*.log
+*.tmp
+*.temp
+*.orig
+*.rej
+.env
+.env.*
+
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# App artifacts
+*.app
+*.dSYM
+*.ipa
+
+# Local debug traffic
+.debug_llm/
+
+# Cursor / editor noise
+.cursor-cache/
+.cursor/
+.vscode/
+.idea/
+*.swp
